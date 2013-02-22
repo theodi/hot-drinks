@@ -1,4 +1,3 @@
-hot-drinks
-==========
-
-How does everybody take their tea?
+|Name|Tea|Coffee|
+|:----|:---|:------|
+|Sam |Milk, 1/3 spoon of Truvia| - |
