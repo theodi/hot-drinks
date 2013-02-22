@@ -1,0 +1,17 @@
+{
+  "name": "james.smith",
+  "drinks": {
+    "tea" : {
+      "milk": true,
+      "sugar": 0.5
+    },
+    "instant coffee" : {
+      "milk": false,
+      "sugar": 1
+    }
+    "espresso" : {
+      "milk": false,
+      "sugar": 1
+    }
+  }
+}
