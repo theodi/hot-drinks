@@ -1,0 +1,21 @@
+james_smith: &default_hot_drinks
+  drinks: 
+    tea:
+      milk: true
+      sugar: 0.5
+    instant_coffee:
+      milk: false
+      sugar: 1
+    espresso:
+      milk: false
+      sugar: 1
+sam_pikesley:
+  <<: *&default_hot_drinks
+    tea:
+      sugar: 0.5
+      weird_truvia_sugar_subsitute: 1
+pezholio:
+  <<: *&default_hot_drinks
+    instant_coffee:
+      sugar: 0
+    
