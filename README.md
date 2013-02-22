@@ -1,3 +1,3 @@
-|Name|Tea|Coffee|
-|:----|:---|:------|
-|Sam |Milk, 1/3 spoon of Truvia| - |
+|Name |Tea                      |Coffee |
+|:----|:---                     |:------|
+|Sam  |Milk, 1/3 spoon of Truvia| -     |
