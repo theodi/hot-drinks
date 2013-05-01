@@ -1,0 +1,41 @@
+{
+  "name": "Tea & Coffee",		
+  "description": "How does everyone at the ODI have their tea?",
+  "licenses": [
+    {
+      "id": "odc-odbl",
+      "url": "http://opendatacommons.org/licenses/odbl/1.0/"
+    }	
+  ],
+  "resources": [
+    {
+      "path": "README.md",
+      "dialect": {
+        "delimiter": "|",
+        "doublequote": false,
+        "lineterminator": "\r\n",
+        "quotechar": "\"",
+        "skipinitialspace": false
+      }
+      "schema": {
+        "fields": [
+          {
+            "id": "Name", 
+            "label": "Name",
+            "type": "text"
+          }, 
+          {
+            "id": "Tea", 
+            "label": "Tea",
+            "type": "text"
+          }, 
+          {
+            "id": "Coffee", 
+            "label": "Coffee",
+            "type": "text"
+          }, 
+        ]
+      }
+    }
+  ],
+}
