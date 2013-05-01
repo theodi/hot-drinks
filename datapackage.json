@@ -7,6 +7,12 @@
       "url": "http://opendatacommons.org/licenses/odbl/1.0/"
     }	
   ],
+  "publishers": [
+    {
+      "name": "The Open Data Institute",
+      "web": "http://www.theodi.org"
+    }
+  ],
   "resources": [
     {
       "path": "README.md",
