@@ -13,6 +13,12 @@
       "web": "http://www.theodi.org"
     }
   ],
+  "maintainers": [
+    {
+      "name": "Sam Pikesley",
+      "email": "sam.pikesley@theodi.org"
+    }
+  ],
   "resources": [
     {
       "path": "README.md",
