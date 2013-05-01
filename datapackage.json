@@ -16,7 +16,7 @@
         "lineterminator": "\r\n",
         "quotechar": "\"",
         "skipinitialspace": false
-      }
+      },
       "schema": {
         "fields": [
           {
