@@ -20,17 +20,17 @@
       "schema": {
         "fields": [
           {
-            "id": "Name", 
+            "id": "Name ", 
             "label": "Name",
             "type": "text"
           }, 
           {
-            "id": "Tea", 
+            "id": "Tea                                              ", 
             "label": "Tea",
             "type": "text"
           }, 
           {
-            "id": "Coffee", 
+            "id": "Coffee        ", 
             "label": "Coffee",
             "type": "text"
           }
