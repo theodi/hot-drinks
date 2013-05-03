@@ -21,7 +21,7 @@
   ],
   "resources" : [
     {
-      "path" : "README.md",
+      "path" : "hot-drinks.csv",
       "dialect" : {
         "delimiter" : "|",
         "doublequote" : false,
