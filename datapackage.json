@@ -32,7 +32,7 @@
       "schema" : {
         "fields" : [
           {
-            "id" : "Name ",
+            "id" : "Name",
             "label" : "Name",
             "type" : "text"
           },
