@@ -23,7 +23,7 @@
     {
       "path" : "hot-drinks.csv",
       "dialect" : {
-        "delimiter" : "|",
+        "delimiter" : ",",
         "doublequote" : false,
         "lineterminator" : "\r\n",
         "quotechar" : "\"",
@@ -37,12 +37,12 @@
             "type" : "text"
           },
           {
-            "id" : "Tea                                              ",
+            "id" : "Tea",
             "label" : "Tea",
             "type" : "text"
           },
           {
-            "id" : "Coffee        ",
+            "id" : "Coffee",
             "label" : "Coffee",
             "type" : "text"
           }
