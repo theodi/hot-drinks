@@ -1,5 +1,5 @@
-|Name |Tea                                              |Coffee        |
-|:----|:----                                            |:----         |
+|Name |Tea                                              |Coffee        |Other  |       
+|:----|:----                                            |:----         |:---- |   
 |Sam  |Milk, 1/3 spoon of Truvia.                       | -            |
 |James|Milk, 1/2 sugar                                  |Black, 1 sugar|
 |Dave |http://live.dbpedia.org/resource/Builder%27s_tea | -            |
@@ -7,4 +7,4 @@
 |Ulrich  |Green tea, no sugar		                     |Espresso, black|
 |Jeni |Earl Grey, weak and lots of milk but squeeze the tea bag|Large & black|
 |Gavin |Builder's tea with milk and the occassional sugar| White with the occassional sugar|
-|Kathryn |Tea, milk, no sugar| coffee, black| fruit/herb tea occssionally|
+|Kathryn |Tea, milk, no sugar| coffee, black| fruit/herb tea occasionally|
