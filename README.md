@@ -7,3 +7,4 @@
 |Ulrich  |Green tea, no sugar		                     |Espresso, black|
 |Jeni |Earl Grey, weak and lots of milk but squeeze the tea bag|Large & black|
 |Gavin |Builder's tea with milk and the occassional sugar| White with the occassional sugar|
+|Anneza |Builders tea, little milk, no sugar| latte, no sugar|
