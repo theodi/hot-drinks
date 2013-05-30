@@ -7,3 +7,4 @@
 |Ulrich  |Green tea, no sugar		                     |Espresso, black|
 |Jeni |Earl Grey, weak and lots of milk but squeeze the tea bag|Large & black|
 |Gavin |Builder's tea with milk and the occassional sugar| White with the occassional sugar|
+|Jade |Milk, 2/3 spoon of sugar                        |Lots of milk, 1 sugar - instant is fine with me|
