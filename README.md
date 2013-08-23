@@ -10,3 +10,4 @@
 |Anneza  |Builders tea, little milk, no sugar                     |Latte, no sugar                                |                             |
 |Jade    |Milk, 2/3 spoon of sugar                                |Lots of milk, 1 sugar - instant is fine with me|                             |
 |Kathryn |Tea, milk, no sugar                                     |Coffee, black                                  | fruit/herb tea occasionally |
+|Harry   |Builder's tea medium milky                              | -                                             |                             |
