@@ -45,6 +45,11 @@
             "id" : "Coffee",
             "label" : "Coffee",
             "type" : "text"
+          },
+          {
+            "id" : "Other",
+            "label" : "Other",
+            "type" : "text"
           }
         ]
       }
