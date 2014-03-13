@@ -23,7 +23,7 @@
   "resources" : [
     {
       "path" : "hot-drinks.csv",
-      "url" : "theodi.github.io/hot-drinks/hot-drinks.csv",
+      "url" : "http://theodi.github.io/hot-drinks/hot-drinks.csv",
       "dialect" : {
         "delimiter" : ",",
         "doublequote" : false,
